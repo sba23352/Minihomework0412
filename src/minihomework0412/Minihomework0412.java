@@ -18,6 +18,7 @@ public class Minihomework0412 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         int age = yourAge();
+        System.out.println("You are " + age + " years old");
     }
     public static int yourAge() {
         Scanner sc = new Scanner(System.in);
