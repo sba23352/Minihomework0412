@@ -6,7 +6,7 @@ package minihomework0412;
 
 /**
  *
- * @author amber
+ * @author Matthew 
  */
 public class Minihomework0412 {
 
