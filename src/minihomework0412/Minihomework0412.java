@@ -21,6 +21,8 @@ public class Minihomework0412 {
     }
     public static int yourAge() {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your age:");
+        return sc.nextInt();
         
     }
     
