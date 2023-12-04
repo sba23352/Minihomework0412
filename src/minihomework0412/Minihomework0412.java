@@ -4,6 +4,8 @@
  */
 package minihomework0412;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Matthew 
@@ -15,6 +17,11 @@ public class Minihomework0412 {
      */
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        int age = yourAge();
+    }
+    public static int yourAge() {
+        Scanner sc = new Scanner(System.in);
+        
     }
     
 }
